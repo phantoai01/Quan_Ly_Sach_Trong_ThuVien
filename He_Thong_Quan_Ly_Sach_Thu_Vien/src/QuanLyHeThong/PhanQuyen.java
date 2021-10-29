@@ -1,5 +1,10 @@
 package QuanLyHeThong;
-
+//Nhóm 1 chủ đề 8
+/*họ Và Tên Các thành Viên trong Nhóm gồm:
+1. Phan Hữu Toại - 71DCHT22129- 71DCHT21
+2. Vương Việt Anh
+3. Nguyễn Đình Huy
+4. Nguyễn Thị Thùy Linh*/
 
 import java.util.Scanner;
 
